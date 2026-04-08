@@ -1,0 +1,5 @@
+region   = "eu-west-1"
+instance_type_micro = "t3.micro"
+instance_type_small = "t3.small"
+keypair_name          = "ire-keypair"
+my_ipaddress          = "ire-my_ipaddress/32"
